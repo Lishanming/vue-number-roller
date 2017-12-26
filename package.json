@@ -1,0 +1,19 @@
+{
+  "name": "vue-number-roller",
+  "version": "1.0.0",
+  "description": "A vue component provide rolling effect when the specified number change",
+  "main": "src/roller/src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lishanming/vue-number-roller.git"
+  },
+  "author": "lishanming_ <674548322@qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lishanming/vue-number-roller/issues"
+  },
+  "homepage": "https://github.com/Lishanming/vue-number-roller#readme"
+}
