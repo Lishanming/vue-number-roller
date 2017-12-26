@@ -1,8 +1,8 @@
 {
   "name": "vue-number-roller",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A vue component provide rolling effect when the specified number change",
-  "main": "src/roller/src/index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

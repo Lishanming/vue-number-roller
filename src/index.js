@@ -3,7 +3,7 @@
  * email 674548322@qq.com
  */
 
-import epRoller from './src/roller.vue'
+import epRoller from './roller.vue'
 
 epRoller.install = function(Vue) {
 	Vue.component(epRoller.name, epRoller);
