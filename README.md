@@ -18,5 +18,13 @@ Vue.use(roller)
 ```
 
 ```
-<ep-roller :number = "rollNumber"></ep-roller>
+<ep-roller :number = "rollNumber" :rate="100" :duration="500"></ep-roller>
 ```
+### property
+
+属性 | 描述 | 默认值（ms）
+---|--- |---
+number | 显示数值 | 
+rate   | 一次赋值动作中，各单位数值滚动频率 一次赋值动作滚动时间 | 100
+duration | 一次赋值动作滚动时间 | 500
+
