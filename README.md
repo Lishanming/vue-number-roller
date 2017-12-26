@@ -16,3 +16,7 @@ npm install vue-number-roller --save
 import roller from 'vue-number-roller'
 Vue.use(roller)
 ```
+
+```
+<ep-roller :number = "rollNumber"></ep-roller>
+```
